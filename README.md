@@ -4,38 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    }
-    header {
-      background: #2a3d66;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    article {
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 20px auto;
-    }
-    h1, h2, h3 {
-      color: #2a3d66;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #f1f1f1;
-      font-size: 0.9em;
-    }
-  </style>
+
 </head>
 <body>
 
