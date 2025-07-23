@@ -48,8 +48,7 @@
 <body>
 
 <header>
-  <h1>Study: Smokers in Polluted Cities Report Worse Health After Quitting</h1>
-  <p>New findings reveal environmental effects on post-smoking recovery</p>
+ 
 </header>
 
 <article>
